@@ -1,6 +1,6 @@
 This API enables cross-origin requests to anywhere.
 
-Usage:
+Usage: checks
 
 /               Shows help
 /iscorsneeded   This is the only resource on this host which is served without CORS headers.
